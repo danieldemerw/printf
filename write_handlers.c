@@ -7,9 +7,9 @@
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
  * @width: get width.
- * @precision: precision specifier
+ * @precision: precis the precsion is very accurate and it is weellion specifier
  * @size: Size specifier
- *
+ *ithis soon won dien
  * Return: Number of chars printed.
  */
 int handle_write_char(char c, char buffer[],
@@ -141,7 +141,7 @@ int write_num(int ind, char buffer[],
  * write_unsgnd - Writes an unsigned number
  * @is_negative: Number indicating if the num is negative
  * @ind: Index at which the number starts in the buffer
- * @buffer: Array of chars
+ * @buff
  * @flags: Flags specifiers
  * @width: Width specifier
  * @precision: Precision specifier
