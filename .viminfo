@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1707919681,,"wq"
+|2,0,1708497924,,"wq"
+:q!
+|2,0,1708490930,,"q!"
 :WQ
 |2,0,1707808477,,"WQ"
-:q!
-|2,0,1707805675,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,38 +27,211 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	p
+|3,1,36,0,1,0,1708490897,"p"
 
 # File marks:
-'0  3  0  ~/simple_shell/README.md
-|4,48,3,0,1707919681,"~/simple_shell/README.md"
-'1  5  32  ~/printf/handle_print.c
-|4,49,5,32,1707808561,"~/printf/handle_print.c"
-'2  90  1  ~/printf/functions.c
-|4,50,90,1,1707808482,"~/printf/functions.c"
-'3  140  2  ~/printf/write_handlers.c
-|4,51,140,2,1707808064,"~/printf/write_handlers.c"
-'4  140  2  ~/printf/write_handlers.c
-|4,52,140,2,1707808064,"~/printf/write_handlers.c"
-'5  1  0  ~/printf/README.md
-|4,53,1,0,1707807994,"~/printf/README.md"
-'6  1  0  ~/printf/README.md
-|4,54,1,0,1707807994,"~/printf/README.md"
-'7  3  9  ~/printf/test/main.c
-|4,55,3,9,1707807439,"~/printf/test/main.c"
-'8  3  9  ~/printf/test/main.c
-|4,56,3,9,1707807439,"~/printf/test/main.c"
-'9  92  0  ~/printf/_printf.c
-|4,57,92,0,1707807262,"~/printf/_printf.c"
+'0  3  19  ~/simple_shell/README.md
+|4,48,3,19,1708497924,"~/simple_shell/README.md"
+'1  7  46  ~/.git/COMMIT_EDITMSG
+|4,49,7,46,1708491654,"~/.git/COMMIT_EDITMSG"
+'2  82  251  ~/simple_shell/README.md
+|4,50,82,251,1708491127,"~/simple_shell/README.md"
+'3  82  251  ~/simple_shell/README.md
+|4,51,82,251,1708491127,"~/simple_shell/README.md"
+'4  125  621  ~/simple_shell/README.md
+|4,52,125,621,1708490930,"~/simple_shell/README.md"
+'5  46  621  ~/simple_shell/README.md
+|4,53,46,621,1708490930,"~/simple_shell/README.md"
+'6  125  621  ~/simple_shell/README.md
+|4,54,125,621,1708490930,"~/simple_shell/README.md"
+'7  46  621  ~/simple_shell/README.md
+|4,55,46,621,1708490930,"~/simple_shell/README.md"
+'8  3  0  ~/simple_shell/README.md
+|4,56,3,0,1707919681,"~/simple_shell/README.md"
+'9  3  0  ~/simple_shell/README.md
+|4,57,3,0,1707919681,"~/simple_shell/README.md"
 
 # Jumplist (newest first):
+-'  3  19  ~/simple_shell/README.md
+|4,39,3,19,1708497924,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1708497887,"~/simple_shell/README.md"
+-'  7  46  ~/.git/COMMIT_EDITMSG
+|4,39,7,46,1708491654,"~/.git/COMMIT_EDITMSG"
+-'  7  46  ~/.git/COMMIT_EDITMSG
+|4,39,7,46,1708491654,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1708491614,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1708491614,"~/.git/COMMIT_EDITMSG"
+-'  82  251  ~/simple_shell/README.md
+|4,39,82,251,1708491127,"~/simple_shell/README.md"
+-'  82  251  ~/simple_shell/README.md
+|4,39,82,251,1708491127,"~/simple_shell/README.md"
+-'  82  251  ~/simple_shell/README.md
+|4,39,82,251,1708491127,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1708491065,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1708491065,"~/simple_shell/README.md"
+-'  125  621  ~/simple_shell/README.md
+|4,39,125,621,1708490930,"~/simple_shell/README.md"
+-'  46  621  ~/simple_shell/README.md
+|4,39,46,621,1708490930,"~/simple_shell/README.md"
+-'  125  621  ~/simple_shell/README.md
+|4,39,125,621,1708490930,"~/simple_shell/README.md"
+-'  46  621  ~/simple_shell/README.md
+|4,39,46,621,1708490930,"~/simple_shell/README.md"
+-'  125  621  ~/simple_shell/README.md
+|4,39,125,621,1708490930,"~/simple_shell/README.md"
+-'  46  621  ~/simple_shell/README.md
+|4,39,46,621,1708490930,"~/simple_shell/README.md"
+-'  3  0  ~/simple_shell/README.md
+|4,39,3,0,1708490897,"~/simple_shell/README.md"
+-'  3  0  ~/simple_shell/README.md
+|4,39,3,0,1708490897,"~/simple_shell/README.md"
+-'  3  0  ~/simple_shell/README.md
+|4,39,3,0,1708490897,"~/simple_shell/README.md"
+-'  3  0  ~/simple_shell/README.md
+|4,39,3,0,1708490897,"~/simple_shell/README.md"
 -'  3  0  ~/simple_shell/README.md
 |4,39,3,0,1707919681,"~/simple_shell/README.md"
+-'  3  0  ~/simple_shell/README.md
+|4,39,3,0,1707919681,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1707919554,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1707919554,"~/simple_shell/README.md"
+-'  1  0  ~/simple_shell/README.md
+|4,39,1,0,1707919554,"~/simple_shell/README.md"
 -'  1  0  ~/simple_shell/README.md
 |4,39,1,0,1707919554,"~/simple_shell/README.md"
 -'  5  32  ~/printf/handle_print.c
 |4,39,5,32,1707808561,"~/printf/handle_print.c"
 -'  5  32  ~/printf/handle_print.c
 |4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  5  32  ~/printf/handle_print.c
+|4,39,5,32,1707808561,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
+-'  1  0  ~/printf/handle_print.c
+|4,39,1,0,1707808520,"~/printf/handle_print.c"
 -'  1  0  ~/printf/handle_print.c
 |4,39,1,0,1707808520,"~/printf/handle_print.c"
 -'  1  0  ~/printf/handle_print.c
@@ -71,196 +244,36 @@
 |4,39,90,1,1707808482,"~/printf/functions.c"
 -'  90  1  ~/printf/functions.c
 |4,39,90,1,1707808482,"~/printf/functions.c"
--'  1  0  ~/printf/functions.c
-|4,39,1,0,1707808408,"~/printf/functions.c"
--'  1  0  ~/printf/functions.c
-|4,39,1,0,1707808408,"~/printf/functions.c"
--'  1  0  ~/printf/functions.c
-|4,39,1,0,1707808408,"~/printf/functions.c"
--'  1  0  ~/printf/functions.c
-|4,39,1,0,1707808408,"~/printf/functions.c"
--'  140  2  ~/printf/write_handlers.c
-|4,39,140,2,1707808064,"~/printf/write_handlers.c"
--'  140  2  ~/printf/write_handlers.c
-|4,39,140,2,1707808064,"~/printf/write_handlers.c"
--'  140  2  ~/printf/write_handlers.c
-|4,39,140,2,1707808064,"~/printf/write_handlers.c"
--'  140  2  ~/printf/write_handlers.c
-|4,39,140,2,1707808064,"~/printf/write_handlers.c"
--'  140  2  ~/printf/write_handlers.c
-|4,39,140,2,1707808064,"~/printf/write_handlers.c"
--'  140  2  ~/printf/write_handlers.c
-|4,39,140,2,1707808064,"~/printf/write_handlers.c"
--'  140  2  ~/printf/write_handlers.c
-|4,39,140,2,1707808064,"~/printf/write_handlers.c"
--'  140  2  ~/printf/write_handlers.c
-|4,39,140,2,1707808064,"~/printf/write_handlers.c"
--'  1  0  ~/printf/write_handlers.c
-|4,39,1,0,1707808008,"~/printf/write_handlers.c"
--'  1  0  ~/printf/write_handlers.c
-|4,39,1,0,1707808008,"~/printf/write_handlers.c"
--'  1  0  ~/printf/write_handlers.c
-|4,39,1,0,1707808008,"~/printf/write_handlers.c"
--'  1  0  ~/printf/write_handlers.c
-|4,39,1,0,1707808008,"~/printf/write_handlers.c"
--'  1  0  ~/printf/write_handlers.c
-|4,39,1,0,1707808008,"~/printf/write_handlers.c"
--'  1  0  ~/printf/write_handlers.c
-|4,39,1,0,1707808008,"~/printf/write_handlers.c"
--'  1  0  ~/printf/write_handlers.c
-|4,39,1,0,1707808008,"~/printf/write_handlers.c"
--'  1  0  ~/printf/write_handlers.c
-|4,39,1,0,1707808008,"~/printf/write_handlers.c"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  1  0  ~/printf/README.md
-|4,39,1,0,1707807994,"~/printf/README.md"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  3  9  ~/printf/test/main.c
-|4,39,3,9,1707807439,"~/printf/test/main.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  92  0  ~/printf/_printf.c
-|4,39,92,0,1707807262,"~/printf/_printf.c"
--'  1  0  ~/printf/_printf.c
-|4,39,1,0,1707807250,"~/printf/_printf.c"
--'  1  0  ~/printf/_printf.c
-|4,39,1,0,1707807250,"~/printf/_printf.c"
+-'  90  1  ~/printf/functions.c
+|4,39,90,1,1707808482,"~/printf/functions.c"
+-'  90  1  ~/printf/functions.c
+|4,39,90,1,1707808482,"~/printf/functions.c"
+-'  90  1  ~/printf/functions.c
+|4,39,90,1,1707808482,"~/printf/functions.c"
+-'  90  1  ~/printf/functions.c
+|4,39,90,1,1707808482,"~/printf/functions.c"
+-'  90  1  ~/printf/functions.c
+|4,39,90,1,1707808482,"~/printf/functions.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/simple_shell/README.md
-	*	1707919675	0
-	"	3	0
-	^	3	46
-	.	3	45
+	*	1708497919	0
+	"	3	19
+	^	3	20
+	.	3	19
 	+	1	58
-	+	3	45
+	+	3	46
+	+	125	621
+	+	3	0
+	+	86	0
+	+	82	251
+	+	3	19
+
+> ~/.git/COMMIT_EDITMSG
+	*	1708491651	0
+	"	7	46
+	^	7	47
 
 > ~/printf/handle_print.c
 	*	1707808559	0
